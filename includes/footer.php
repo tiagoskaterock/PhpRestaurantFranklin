@@ -18,19 +18,21 @@
 						
 						<strong>Hours</strong>
 						<em>Tuesday - Thursday</em><br>
-						1:00pm - 9:00pm<br>
+						1:00pm - 9:00pm<br><br>
 
 						<em>Friday - Saturday</em><br>
-						4:00pm - 11:00pm<br>
+						4:00pm - 11:00pm<br><br>
 
 						<em>Sunday - Monday</em><br>
-						Closed<br>
+						Closed<br><br>
+
+						<?php require('includes/storeHours.php'); ?>
 
 					</div><!-- column -->
 
 				</div><!-- footer -->
 
-				<small>&copy;2014 Brad Hussey</small>
+				<small>&copy;<?php echo date('Y'); ?> <?php echo $company_name; ?></small>
 
 			</div><!-- content -->
 

@@ -21,7 +21,7 @@
 
 		array(
 			'slug' => 'contact.php',
-			'title' => 'Contato'
+			'title' => 'Contact'
 		),	
 
 	);

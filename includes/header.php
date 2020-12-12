@@ -1,4 +1,11 @@
 <?php 
+	$company_name = "Franklin's Fine Dining";
+	require('arrays.php'); 
+?>
+
+
+
+<?php 
 	/* Informa o nível dos erros que serão exibidos */
 	error_reporting(E_ALL);
 	 
@@ -6,7 +13,6 @@
 	ini_set("display_errors", 1);
 ?>
 
-<?php require('arrays.php'); ?>
 
 <!DOCTYPE html>
 <html lang="en-us">
