@@ -14,6 +14,6 @@ Feel free to use this code wherever you'd like and have fun!
 
 Message me if you want to my friend!
 
-![](img/1.png)
+![](/img/1.png)
 
 
