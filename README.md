@@ -1,8 +1,8 @@
-# restaurant
+# Restaurant Website
 
 This is a simple restaurant website made using PHP, arrays, loops to learn more cool things we can do with the language. 
 
-THe site has 4 pages, home, team, menu and contact.
+THe site has 4 pages, **Home, Team, Menu** and **Contact**.
 
 The members of the team are created using arrays and showed dinamically on the page as well the dishes of the menu.
 
@@ -13,3 +13,5 @@ The year on footer is changed in real time using PHP and the hours the restauran
 Feel free to use this code wherever you'd like and have fun!
 
 Message me if you want to my friend!
+
+
