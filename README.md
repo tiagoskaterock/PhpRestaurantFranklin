@@ -14,6 +14,10 @@ Feel free to use this code wherever you'd like and have fun!
 
 Message me if you want to my friend!
 
+Oooops! I almost forgot! =) If you want to take this course, go to the Udemy Classes too, you can learn so much new and cool stuff right there =)
+
+[Udemy Classes](https://www.udemy.com/course/code-dynamic-websites/learn/lecture/1297848#overview)
+
 ![](/img/1.png)
 
 
