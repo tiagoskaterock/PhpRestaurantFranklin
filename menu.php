@@ -32,10 +32,4 @@
 
 </div>
 
-<?php 
-	echo "<pre>";
-	print_r($menu_items);
-	echo "</pre>";
-?>
-
 <?php require('includes/footer.php'); ?>

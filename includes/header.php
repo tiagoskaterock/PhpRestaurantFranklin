@@ -2,6 +2,8 @@
 
 <?php require('arrays.php'); ?>
 
+<?php require('tiago_functions.php'); ?>
+
 <?php error_reporting(E_ALL); ?>
 	 
 <?php ini_set("display_errors", 1); ?>
