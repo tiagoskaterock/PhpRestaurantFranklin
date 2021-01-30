@@ -18,13 +18,6 @@ Oooops! I almost forgot! =) If you want to take this course, go to the Udemy Cla
 
 [Udemy Classes](https://www.udemy.com/course/code-dynamic-websites/learn/lecture/1297848#overview)
 
-<p style="text-align: center">
-  <img src="img/home.png">
-  <img  src="img/home.png">
-  <img  src="img/home.png">
-  <img  src="img/home.png">
-</p>
-
 ![](/img/home.png)
 ![](/img/team.png)
 ![](/img/menu.png)
